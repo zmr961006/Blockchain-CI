@@ -4,22 +4,21 @@
 
 V0.1（原理验证与测试版本） 
 
-<br>
+
 remixIDE 测试版本
 <br>
 src\_for\_remixIDE:  run on remixIDE with solc+0.6.6
 
 
-<br>
 运行环境:<br>
     RemixIDE MetaMask
-<br>
+
 
 
 Truffle 测试版本
 <br>
 src\_for\_truffle:   run on truffle 
-<br>
+
 
 
 运行环境:<br>
