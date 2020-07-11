@@ -2,12 +2,13 @@
 ### A Blockchain-based Framework for Crowd Intelligence
 ### 一种基于区块链的群体智能网络框架
 
-V0.1（原理验证与测试版本） 
-
+版本号：V0.1（原理验证与测试版本） 
 
 remixIDE 测试版本
 <br>
-src\_for\_remixIDE:  run on remixIDE with solc+0.6.6
+src\_for\_remixIDE:   
+remixIDE  
+solc+0.6.6
 
 
 运行环境:<br>
@@ -17,8 +18,10 @@ src\_for\_remixIDE:  run on remixIDE with solc+0.6.6
 
 Truffle 测试版本
 <br>
-src\_for\_truffle:   run on truffle 
-
+src\_for\_truffle:    
+truffle   
+ganache-cli
+solc+0.6.7
 
 
 运行环境:<br>
